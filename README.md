@@ -188,7 +188,7 @@ String password = "your_mysql_password";
     <img src="https://img.shields.io/badge/GitHub-kxrtik05-181717?style=flat&logo=github" alt="GitHub">
   </a>
   <a href="https://www.linkedin.com/in/kartik-naik" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Kartik%20Naik-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-kartik%20naik-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
 
