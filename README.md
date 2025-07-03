@@ -181,7 +181,18 @@ String password = "your_mysql_password";
 
 ---
  This Project was made as a Mini Project in Java Programming And Database and Management Systems subject.
+ <h3 align="center">🤝 Connect with Me</h3>
 
+<p align="center">
+  <a href="https://github.com/kxrtik05" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-kxrtik05-181717?style=flat&logo=github" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/in/kartik-naik" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Kartik%20Naik-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
+
+<p align="center">Made with ❤️ by <b>Kartik Naik</b></p>
 
 
 
